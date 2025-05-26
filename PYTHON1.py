@@ -8,3 +8,5 @@ print(f"{name}")
 print(f"{mood}")
 print(f"Average={avarage}")
 print("It has been an amazing day")
+
+
